@@ -1,0 +1,20 @@
+ #tabela
+ {
+    padding:2px;
+    border-radius:10px;
+    max-width: 100%;
+    max-height:400px;
+    overflow: scroll;
+}
+.divMain1
+{
+    min-height: 100vh;
+}
+.divMain2
+{
+    min-height: 100vh;
+    color:#eceff1;
+}
+#selectDiv{
+    float:right;
+}
