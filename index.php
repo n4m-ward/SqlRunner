@@ -81,9 +81,9 @@ if (is_array($row)) {
             <?php
             }
         }
-        ;
+        
 ?>
-       </tr>;
+       </tr>
     <?php
     }
 ?>
